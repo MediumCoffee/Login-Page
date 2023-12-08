@@ -1,0 +1,22 @@
+
+.card-container-ud {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* #f6d365 0%, #fda085 100%  */
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f4a261;
+    color: white;
+    text-align: center;
+    height: 80px;
+}
+
+#dfinity {
+    width: 50px;
+}
